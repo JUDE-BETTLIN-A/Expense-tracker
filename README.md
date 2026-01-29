@@ -1,6 +1,6 @@
-# LedgerFlow
+# Expense Tracker
 
-LedgerFlow is a backend-focused financial reconciliation system that automatically matches bank transactions with internal ledger records and flags discrepancies for review.
+Expense Tracker is a backend-focused financial reconciliation system that automatically matches bank transactions with internal ledger records and flags discrepancies for review.
 
 ---
 
